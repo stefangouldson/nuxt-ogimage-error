@@ -8,5 +8,6 @@
 </script>
 
 <template>
-    <h1 class="text-7xl text-center">About Page</h1>
+  <OgImageScreenshot />
+  <h1 class="text-7xl text-center">About Page</h1>
 </template>

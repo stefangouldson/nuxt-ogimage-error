@@ -5,6 +5,7 @@
     description: 'Prepare to unveil your business in a whole new light with WebVids. Experience expertly crafted videography designed exclusively for small businesses.',
     ogDescription: 'Prepare to unveil your business in a whole new light with WebVids. Experience expertly crafted videography designed exclusively for small businesses.'
   });
+  defineOgImageScreenshot();
 </script>
 
 <template>
